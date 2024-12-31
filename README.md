@@ -1,5 +1,8 @@
 # VAR
+## Surveys
++ Autoregressive Models in Vision: A Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2411.05902) [[Project]](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
 ## Papers
++ Car: Controllable autoregressive modeling for visual generation, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2410.04671) [[Code]](https://github.com/MiracleDance/CAR)
 + Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2412.04431) [[Code]](https://github.com/FoundationVision/Infinity)
 + Fluid: Scaling autoregressive text-to-image generative models with continuous tokens, NeurIPS 2024. [[Paper]](https://arxiv.org/pdf/2410.13863)
 + Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction, NeurIPS 2024. [[Paper]](https://arxiv.org/pdf/2404.02905) [[Code]](https://github.com/FoundationVision/VAR)
