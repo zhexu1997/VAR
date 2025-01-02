@@ -1,5 +1,6 @@
 # VAR
 ## Surveys
++ Next Token Prediction Towards Multimodal Intelligence: A Comprehensive Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2412.18619v2) [[Project]](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)
 + Autoregressive Models in Vision: A Survey, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2411.05902) [[Project]](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
 ## Papers
 + Car: Controllable autoregressive modeling for visual generation, arXiv 2024. [[Paper]](https://arxiv.org/pdf/2410.04671) [[Code]](https://github.com/MiracleDance/CAR)
